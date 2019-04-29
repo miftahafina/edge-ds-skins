@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<skin><skin-name>Mario Red</skin-name><skin-author>Miftah Afina</skin-author><skin-version>1.1</skin-version>
+<top-bitmap file="bg_top.bmp" /><bottom-bitmap file="bg_bottom.bmp" /><menu-icon-bitmap file="icons_menu.bmp" transparent-colour="FF00FF" /><scrollbar-bitmap file="scrollbar.bmp" transparent-colour="FF00FF" /><cheat-icon-bitmap file="icons_cheat.bmp" transparent-colour="FF00FF" />
+<window-fill colour="D90000" /><button-fill colour="808080" /><window-border colour="800000" /><text-list colour="FFFFFF" /><text-window colour="FFFFFF" /><text-status colour="FF8080" /><selection colour="800000" transparency="12" />
+</skin>
